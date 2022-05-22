@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,apple.com,DIRECT
 DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 DOMAIN-SUFFIX,appstore.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
-DOMAIN-SUFFIX,icloud.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
@@ -206,8 +205,6 @@ DOMAIN-SUFFIX,sohu-inc.com,DIRECT
 DOMAIN-SUFFIX,v-56.com,DIRECT
 # > Sogo
 DOMAIN-SUFFIX,sogo.com,DIRECT
-DOMAIN-SUFFIX,sogou.com,DIRECT
-DOMAIN-SUFFIX,sogoucdn.com,DIRECT
 # > Steam
 DOMAIN-SUFFIX,steamcontent.com,DIRECT
 DOMAIN-SUFFIX,steampowered.com,DIRECT
